@@ -13,3 +13,10 @@ Some of the predicted results:-
 
 ![predicted-output2](https://user-images.githubusercontent.com/98344033/195517001-51c34a68-b8c6-404c-b5ad-284928939417.png)
 
+3. Card- Queen
+
+![](predicted-output4.png)
+
+4. Card- Jack
+
+![](predicted-output5.png)
