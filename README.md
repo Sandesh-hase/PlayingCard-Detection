@@ -1,7 +1,7 @@
 # PlayingCard-Detection Using Faster-RCNN
 Object detection model built to classify and detect 6 different playing cards like king, queen, ace, ten, nine and jack. Faster RCNN model is used for training 
 
-Data is trained over 1500 steps
+Data is trained over 3000 steps
 
 Some of the predicted results:- 
 
