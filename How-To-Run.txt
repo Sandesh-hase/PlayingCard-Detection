@@ -1,0 +1,8 @@
+Follow the documents given here:- https://c17hawke.github.io/tfod-setup/
+
+After completion of traning convert model checkpints into frozen graphs using below command
+
+python export_inference_graph.py --input_type image_tensor --pipeline_config_path training/faster_rcnn_inception_v2_coco.config --trained_checkpoint_prefix training/model.ckpt-300 --output_directory my_model
+
+
+## in above code, ckpt-300 is the last checkpoint of your trained model and varies depends upon your last trained model weights
