@@ -15,8 +15,9 @@ Some of the predicted results:-
 
 3. Card- Queen
 
-![](predicted-output4.png)
+![predicted-output4](https://user-images.githubusercontent.com/98344033/195528929-64eb4a83-0f94-4d65-98f2-7acc76c66890.png)
+
 
 4. Card- Jack
 
-![](predicted-output5.png)
+![predicted-output5](https://user-images.githubusercontent.com/98344033/195528964-e0b4faa0-dcf0-4156-9653-587aaeffa680.png)
